@@ -1,0 +1,53 @@
+h1{
+    color: crimson;
+    
+}
+p{
+    color:yellowgreen;
+    text-align: center;
+    background-color: burlywood;
+}
+.title{
+    text-align: right;
+    color: darkred;
+    font-size: 70px;
+}
+body{
+    background-image: url("hqdefault.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#teacher{
+    font-size: 90px;
+    color: aqua;
+    text-align: center;
+    background-color: brown;
+    padding: 100px;
+}
+#box{
+    background-color: tomato;
+}
+#box2{
+    background-color:darkorchid;
+}
+#box3{
+    background-color:darkgoldenrod;
+}
+#box4{
+    background-color:darkorange;
+}
+#box5{
+    background-color:darkblue;
+}
+div{
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+.nav{
+    background-color: yellow;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
